@@ -13,13 +13,13 @@
 ---
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge&logo=github&color=ffb703">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-Tauri%20v2-B7410E?style=for-the-badge&logo=rust&logoColor=white">
-  <img alt="Size" src="https://img.shields.io/badge/size-~17MB%20portable-6f42c1?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/license-CJR--1.0-dc3545?style=for-the-badge">
-  <img alt="Status" src="https://img.shields.io/badge/status-active-28a745?style=for-the-badge">
-  <img alt="Build" src="https://img.shields.io/badge/build-secure%20pipeline-success?style=for-the-badge&logo=githubactions&logoColor=white">
+  <a href="https://github.com/Contrary7/Dnvo-Janus"><img alt="Stars" src="https://img.shields.io/github/stars/Contrary7/Dnvo-Janus?style=flat-square&logo=github&color=ffb703"></a>
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%20x64-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-Tauri%20v2-B7410E?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Size" src="https://img.shields.io/badge/Size-~17MB%20portable-47848F?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/License-CJR--1.0-dc3545?style=flat-square">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-28a745?style=flat-square">
+  <img alt="Build" src="https://img.shields.io/badge/Build-Secure%20Pipeline-success?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
 ---
@@ -106,7 +106,7 @@ Open **Dnvo Janus.exe**. The **Authentication** panel loads by default.
 ---
 
 ### 🛰️ Step 2B — Leech (You received a code, game is installed)
-> The Leech does **not** need to own the game.
+> The Leech does **not** need to own the game or have an account logged in.
 
 1. Go to the **Leech** panel.
 2. Paste the **7-digit code** you received from the Activator.
@@ -331,3 +331,5 @@ We would like to extend our deepest gratitude to the following individuals and p
 - **mr goldberg**
 - **drm.steam.run**
 - **NotAndreh**
+- **DoctorMcKay**
+- **YoobieRE**
